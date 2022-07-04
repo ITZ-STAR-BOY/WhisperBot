@@ -24,9 +24,9 @@ main = [
         thumb_url="https://telegra.ph/file/33af12f457b16532e1383.jpg",
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Learn More", url="https://t.me/WhisperStarkBot?start=start")],
+                [InlineKeyboardButton("Learn More", url="https://t.me/Hindustan_WhisperBot?start=start")],
                 [InlineKeyboardButton("🔒 Send a Whisper 🔒", switch_inline_query="")],
-                [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")]
+                [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/HINDUSTANIUPDATES")]
             ]
         ),
     )
